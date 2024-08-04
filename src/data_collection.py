@@ -1,11 +1,15 @@
 import praw
 import json
+from dotenv import load_dotenv
+import os
+
+load_dotenv()  # Load environment variables from .env file
 
 # Initialize Reddit instance
 reddit = praw.Reddit(
-    client_id='f3O-dcB13qSqoMxKh_XkcA',
-    client_secret='wqPqVtgyCs8kC7fsdbY1oJ8dph8PBQ',
-    user_agent='NLPArgumentMiningBot/0.1'
+    client_id=os.getenv('REDDIT_CLIENT_ID'),
+    client_secret=os.getenv('REDDIT_CLIENT_SECRET'),
+    user_agent=os.getenv('REDDIT_USER_AGENT')
 )
 
 def collect_top_posts(subreddit_name, limit=10):
