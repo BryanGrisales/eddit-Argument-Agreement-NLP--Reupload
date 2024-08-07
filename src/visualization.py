@@ -1,13 +1,18 @@
+import pandas as pd
 import matplotlib.pyplot as plt
 
-def plot_results(results):
-    plt.bar(results.keys(), results.values())
+def plot_results(data):
+    label_counts = data['label'].value_counts()
+    plt.bar(label_counts.index, label_counts.values)
     plt.xlabel('Category')
     plt.ylabel('Count')
-    plt.title('Results')
+    plt.title('Argument Categories')
+
+    unique_labels = label_counts.index.tolist()
+    plt.xticks(ticks=label_counts.index, labels=unique_labels)
+    
     plt.show()
 
 if __name__ == "__main__":
-    # Example usage
-    results = {'Category A': 10, 'Category B': 20}
-    plot_results(results)
+    data = pd.read_csv('data/processed/cleaned_data.csv')
+    plot_results(data)

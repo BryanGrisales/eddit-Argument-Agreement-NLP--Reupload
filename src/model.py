@@ -1,3 +1,4 @@
+import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.svm import SVC
 from sklearn.pipeline import make_pipeline
@@ -12,7 +13,7 @@ def train_model(X_train, y_train):
     joblib.dump(model, 'model.pkl')
 
 if __name__ == "__main__":
-    # Example usage with dummy data
-    X_train = ["sample argument", "another argument"]
-    y_train = [1, 0]
-    train_model(X_train, y_train)
+    data = pd.read_csv('data/processed/cleaned_data.csv')
+    X = data['cleaned_body']
+    y = data['label']  # ensure this column exists and has more than one class
+    train_model(X, y)

@@ -1,0 +1,406 @@
+subreddit,title,score,url,id,created,body,cleaned_body,label,num_tokens,num_entities,num_sentences
+PoliticalDiscussion,"In a recent Tweet, the President of the United States explicitly targeted a company because it acted against his family's business interests. Does this represent a conflict of interest? If so, will President Trump pay any political price?",23084,https://www.reddit.com/r/PoliticalDiscussion/comments/5su9ig/in_a_recent_tweet_the_president_of_the_united/,5su9ig,1486576630.0,"From [USA Today](http://www.usatoday.com/story/money/business/2017/02/08/trump-blasts-nordstrom-tweet-over-daughter-ivanka/97644392/):
+
+> President Trump took to Twitter Wednesday to complain that his daughter Ivanka has been ""treated so unfairly"" by the Nordstrom (JWN) department store chain, which has announced it will no longer carry her fashion line.
+
+Here's the full text of the Tweet in question:
+
+> @realDonaldTrump: My daughter Ivanka has been treated so unfairly by @Nordstrom. She is a great person -- always pushing me to do the right thing! Terrible!
+
+It seems as though President Trump is quite explicitly and actively targeting Nordstrom because of his family's business engagements with the company. This could end up hurting Nordstrom, which could have a subsequent ""chilling"" effect that would discourage other companies from trifling with Trump family businesses. 
+
+* Is this a conflict of interest? If so, how serious is it?
+
+* Is this self dealing? I.e., is Trump's motive enrichment of himself or his family? Or might he have some other motive for doing this?
+
+* Given that Trump made no pretenses about the purpose for his attack on Nordstrom, what does it say about how he envisions the duties of the President? Is the President concerned with conflict of interest or the perception thereof?
+
+* What will be the consequences, and who might bring them about? Could a backlash from this event come in the form of a lawsuit? New legislation? Or simply discontentment among the electorate?","from usa today
+
+ president trump took to twitter wednesday to complain that his daughter ivanka has been treated so unfairly by the nordstrom jwn department store chain which has announced it will no longer carry her fashion line
+
+heres the full text of the tweet in question
+
+ realdonaldtrump my daughter ivanka has been treated so unfairly by nordstrom she is a great person  always pushing me to do the right thing terrible
+
+it seems as though president trump is quite explicitly and actively targeting nordstrom because of his familys business engagements with the company this could end up hurting nordstrom which could have a subsequent chilling effect that would discourage other companies from trifling with trump family businesses 
+
+ is this a conflict of interest if so how serious is it
+
+ is this self dealing ie is trumps motive enrichment of himself or his family or might he have some other motive for doing this
+
+ given that trump made no pretenses about the purpose for his attack on nordstrom what does it say about how he envisions the duties of the president is the president concerned with conflict of interest or the perception thereof
+
+ what will be the consequences and who might bring them about could a backlash from this event come in the form of a lawsuit new legislation or simply discontentment among the electorate",0,234,4,1
+PoliticalDiscussion,President Donald Trump has fired FBI Director James Comey,15062,https://www.reddit.com/r/PoliticalDiscussion/comments/6a8jl9/president_donald_trump_has_fired_fbi_director/,6a8jl9,1494366577.0,"As of ~5:45 PM EST, James Comey is no longer Director of the FBI.  This follows investigations into the Trump campaign related to its contacts with Russia and comes just days after (former) Director Comey spoke to the Senate Judiciary Committee regarding Russia's role in the election.
+
+[Politico](http://www.politico.com/story/2017/05/09/trump-fires-fbi-director-james-comey-238175?cmpid=sf)
+
+[The New York Times](https://www.nytimes.com/2017/05/09/us/politics/james-comey-fired-fbi.html?action=Click&contentCollection=BreakingNews&contentID=65272941&pgtype=article)
+
+[CNN](http://www.cnn.com/2017/05/09/politics/james-comey-fbi-trump-white-out/index.html)
+
+[The Washington Post](https://www.washingtonpost.com/world/national-security/comey-misstated-key-clinton-email-evidence-at-hearing-say-people-close-to-investigation/2017/05/09/074c1c7e-34bd-11e7-b373-418f6849a004_story.html?utm_term=.c0f17c6f4943?tid=a_breakingnews&hpid=hp_no-name_no-name%3Apage%2Fbreaking-news-bar).
+
+[CNBC: ""Justice Department was told to come up with reasons to fire Comey""](http://www.cnbc.com/2017/05/09/justice-department-was-told-to-come-up-with-reasons-to-fire-comey-reports-say.html).
+
+*Possibly* related: [CNN exclusive: Grand jury subpoenas issued in FBI's Russia investigation](http://www.cnn.com/2017/05/09/politics/grand-jury-fbi-russia/index.html).
+
+Where do things go from here?  What does Trump intend to accomplish with this move?  How does this reflect on the administration and what will the larger ramifications be?  What kind of Director will Trump install now and where will the Russia investigation go from here?","as of  pm est james comey is no longer director of the fbi  this follows investigations into the trump campaign related to its contacts with russia and comes just days after former director comey spoke to the senate judiciary committee regarding russias role in the election
+
+politico
+
+the new york times
+
+cnn
+
+the washington post
+
+cnbc justice department was told to come up with reasons to fire comey
+
+possibly related cnn exclusive grand jury subpoenas issued in fbis russia investigation
+
+where do things go from here  what does trump intend to accomplish with this move  how does this reflect on the administration and what will the larger ramifications be  what kind of director will trump install now and where will the russia investigation go from here",0,138,13,1
+PoliticalDiscussion,"Michael Flynn has reportedly resigned from his position as Trump's National Security Advisor due to controversy over his communication with the Russian ambassador. How does this affect the Trump administration, and where should they go from here?",9920,https://www.reddit.com/r/PoliticalDiscussion/comments/5txzyf/michael_flynn_has_reportedly_resigned_from_his/,5txzyf,1487045751.0,"According to [the Washington Post](https://www.washingtonpost.com/news/post-politics/wp/2017/02/13/michael-flynn-trumps-embattled-national-security-adviser-resigns-amid-controversy-over-communication-with-russian-ambassador/?utm_term=.4bf47a8feabc), Flynn submitted his resignation to Trump this evening and reportedly ""comes after reports that Flynn had misled the vice president by saying he did not discuss sanctions with the Russian ambassador.""
+
+
+Is there any historical precedent to this? If you were in Trump's camp, what would you do now?","according to the washington post flynn submitted his resignation to trump this evening and reportedly comes after reports that flynn had misled the vice president by saying he did not discuss sanctions with the russian ambassador
+
+
+is there any historical precedent to this if you were in trumps camp what would you do now",0,55,5,1
+PoliticalDiscussion,"Clinton has won the popular vote, while Trump has won the Electoral College. This is the 5th time this has happened. Is it time for a new voting system?",9852,https://www.reddit.com/r/PoliticalDiscussion/comments/5c0pqa/clinton_has_won_the_popular_vote_while_trump_has/,5c0pqa,1478693280.0,"In 1824, 1876, 1888, 2000, and now 2016 the Electoral College has given the Presidency to the person who did not receive the plurality of the vote. The National Popular Vote Interstate Compact, which has been joined by 10 states representing 30.7% of the Electoral college have pledged to give their vote to the popular vote winner, though they need to have 270 Electoral College for it to have legal force. Do you guys have any particular voting systems you'd like to see replace the EC?
+
+https://en.wikipedia.org/wiki/National_Popular_Vote_Interstate_Compact","in     and now  the electoral college has given the presidency to the person who did not receive the plurality of the vote the national popular vote interstate compact which has been joined by  states representing  of the electoral college have pledged to give their vote to the popular vote winner though they need to have  electoral college for it to have legal force do you guys have any particular voting systems youd like to see replace the ec
+
+",0,85,3,1
+PoliticalDiscussion,The CBO just released their report about the costs of the American Health Care Act indicating that 14 million people will lose coverage by 2018,7682,https://www.reddit.com/r/PoliticalDiscussion/comments/5z7h4b/the_cbo_just_released_their_report_about_the/,5z7h4b,1489436726.0,"How will this impact Republican support for the Obamacare replacement? The bill will also reduce the deficit by $337 billion. Will this cause some budget hawks and members of the Freedom Caucus to vote in favor of it? 
+
+http://thehill.com/policy/healthcare/323652-cbo-millions-would-lose-coverage-under-gop-healthcare-plan","how will this impact republican support for the obamacare replacement the bill will also reduce the deficit by  billion will this cause some budget hawks and members of the freedom caucus to vote in favor of it 
+
+",1,39,1,1
+PoliticalDiscussion,Megathread: President Trump has been Acquitted by the Senate on both Articles of Impeachment and will not be removed from office,6999,https://www.reddit.com/r/PoliticalDiscussion/comments/ezgw2p/megathread_president_trump_has_been_acquitted_by/,ezgw2p,1580938380.0,"Today, February 5, 2020, president Donald Trump has been acquitted by the US Senate on both articles of impeachment and will not face removal from office. Trump is now the third US President to face an impeachment trial, and the third to be acquitted on all charges. 
+
+The verdict is as follows:
+
+-	ARTICLE I: ABUSE OF POWER // 52-48 vote // Not Guilty
+-	ARTICLE II: OBSTRUCTION OF CONGRESS // 53-47 vote // Not Guilty
+
+**Please use this thread to discuss the impeachment inquiry, trial, and final verdict.**
+
+*Media and Articles:*
+
+-	[PBS News Hour Live Coverage](https://www.youtube.com/watch?v=GwoAUNJgLlU&feature=emb_title)
+
+
+
+-------------
+
+**Discussion Disclaimer:** Please remember to be civil in discussion and remain on-topic. We understand that politics (particularly with the president) are polarizing, and that many of you are passionate about your views. However, this does not give you a free pass to insult other users or all members of a political party/ideology. Comments/users that violate subreddit rules will face moderator action.","today february   president donald trump has been acquitted by the us senate on both articles of impeachment and will not face removal from office trump is now the third us president to face an impeachment trial and the third to be acquitted on all charges 
+
+the verdict is as follows
+
+	article i abuse of power   vote  not guilty
+	article ii obstruction of congress   vote  not guilty
+
+please use this thread to discuss the impeachment inquiry trial and final verdict
+
+media and articles
+
+	pbs news hour live coverage
+
+
+
+
+
+discussion disclaimer please remember to be civil in discussion and remain ontopic we understand that politics particularly with the president are polarizing and that many of you are passionate about your views however this does not give you a free pass to insult other users or all members of a political partyideology commentsusers that violate subreddit rules will face moderator action",0,160,10,1
+PoliticalDiscussion,"Intel presented, stating that Russia has ""compromising information"" on Trump.",6871,https://www.reddit.com/r/PoliticalDiscussion/comments/5n8tv6/intel_presented_stating_that_russia_has/,5n8tv6,1484094375.0,"[Intel Chiefs Presented Trump with Claims of Russian Efforts to Compromise Him](http://www.cnn.com/2017/01/10/politics/donald-trump-intelligence-report-russia/index.html)  
+  
+  
+CNN (and apparently only CNN) is currently reporting that information was presented to Obama and Trump last week that Russia has ""compromising information"" on DJT. This raises so many questions. The report has been added as an addendum to the hacking report about Russia. They are also reporting that a DJT surrogate was in constant communication with Russia during the election.  
+  
+  
+*What kind of information could it be?    
+*If it can be proven that surrogate was strategizing with Russia on when to release information, what are the ramifications?    
+*Why, even now that they have threatened him, has Trump refused to relent and admit it was Russia?  
+*Will Obama do anything with the information if Trump won't?","intel chiefs presented trump with claims of russian efforts to compromise him  
+  
+  
+cnn and apparently only cnn is currently reporting that information was presented to obama and trump last week that russia has compromising information on djt this raises so many questions the report has been added as an addendum to the hacking report about russia they are also reporting that a djt surrogate was in constant communication with russia during the election  
+  
+  
+what kind of information could it be    
+if it can be proven that surrogate was strategizing with russia on when to release information what are the ramifications    
+why even now that they have threatened him has trump refused to relent and admit it was russia  
+will obama do anything with the information if trump wont",0,134,10,1
+PoliticalDiscussion,Trump fires only Justice Dept. Official authorized to sign FISA warrants,6829,https://www.reddit.com/r/PoliticalDiscussion/comments/5r5o9g/trump_fires_only_justice_dept_official_authorized/,5r5o9g,1485832309.0,"Assistant Attorney General [Sally Q. Yates](https://www.nytimes.com/2017/01/30/us/politics/trump-immigration-ban-memo.html) was fired for refusing to defend Trump's recent Executive Order on Immigration.  One side effect of this decision is that there is now no one at the Justice Department who is authorized to sign FISA warrants.  The earliest replacement would come with the confirmation of Jeff Sessions as Attorney General by the Senate.
+
+What effect will this have on US Intelligence collection?  Will this have the side effect of preventing further investigation of Trump's ties with Russia?
+
+Will the Trump admin simply ignore the FISA process and assert it has a right to collect information on anyone they please?
+
+Edit:  With a replacement AAG on-board, it looks like FISA authority is non-issue here.  But it appears we are in a constitutional crisis nonetheless.
+ 
+[Relevant law:](https://www.law.cornell.edu/uscode/text/5/3345)
+>notwithstanding paragraph (1), the President (and only the President) may direct a person who serves in an office for which appointment is required to be made by the President, by and with the advice and consent of the Senate, to perform the functions and duties of the vacant office temporarily in an acting capacity subject to the time limitations of section 3346
+
+Thanks /u/pipsdontsqueak for linking statute","assistant attorney general sally q yates was fired for refusing to defend trumps recent executive order on immigration  one side effect of this decision is that there is now no one at the justice department who is authorized to sign fisa warrants  the earliest replacement would come with the confirmation of jeff sessions as attorney general by the senate
+
+what effect will this have on us intelligence collection  will this have the side effect of preventing further investigation of trumps ties with russia
+
+will the trump admin simply ignore the fisa process and assert it has a right to collect information on anyone they please
+
+edit  with a replacement aag onboard it looks like fisa authority is nonissue here  but it appears we are in a constitutional crisis nonetheless
+ 
+relevant law
+notwithstanding paragraph  the president and only the president may direct a person who serves in an office for which appointment is required to be made by the president by and with the advice and consent of the senate to perform the functions and duties of the vacant office temporarily in an acting capacity subject to the time limitations of section 
+
+thanks upipsdontsqueak for linking statute",0,208,8,2
+PoliticalDiscussion,Ted Cruz is dropping out of presidential race,6283,https://www.reddit.com/r/PoliticalDiscussion/comments/4hrwn5/ted_cruz_is_dropping_out_of_presidential_race/,4hrwn5,1462321907.0,"This is according to [Politico] (http://www.politico.com/story/2016/05/ted-cruz-drops-out-of-presidential-race-222763) and [the Hill] (http://thehill.com/blogs/ballot-box/gop-primaries/278569-cruz-ends-presidential-campaign). 
+
+Will Kasich drop out as well? And where will Cruz's delegates go? Then there are the implications for the Never Trump movement, the possibility of a contested convention, and the impact on the Democratic side. Do you guys think Cruz will endorse Trump after everything? Will members of Congress like Lindsey Graham and John McCain? ","this is according to politico  and the hill  
+
+will kasich drop out as well and where will cruzs delegates go then there are the implications for the never trump movement the possibility of a contested convention and the impact on the democratic side do you guys think cruz will endorse trump after everything will members of congress like lindsey graham and john mccain ",0,65,3,1
+PoliticalDiscussion,[Megathread] Iran Fires Missiles at U.S. Bases in Iraq Following US Strike Killing IRGC Major General Suleimani,5789,https://www.reddit.com/r/PoliticalDiscussion/comments/elkxvb/megathread_iran_fires_missiles_at_us_bases_in/,elkxvb,1578444890.0,"Please use this thread to discuss recent events between the United States and Iran.
+
+Keep in mind:
+
+* Breaking news reports may be based off erroneous or incomplete information
+
+* Subreddit rules still apply in this thread. Please remain civil and focus on substantive discussion.
+
+Articles about Iranian missile attack on US:
+
+[NYTimes](https://www.nytimes.com/2020/01/07/world/middleeast/trump-iran.html#commentsContainer)
+[CNN](https://www.cnn.com/middleeast/live-news/us-iran-soleimani-tensions-intl-01-07-20)","please use this thread to discuss recent events between the united states and iran
+
+keep in mind
+
+ breaking news reports may be based off erroneous or incomplete information
+
+ subreddit rules still apply in this thread please remain civil and focus on substantive discussion
+
+articles about iranian missile attack on us
+
+nytimes
+cnn",0,58,4,1
+ChangeMyView,CMV: Mike Bloomberg's campaign is proof that the ultra wealthy in the US can afford a higher tax rate with no ill effect on them,65395,https://www.reddit.com/r/changemyview/comments/fdziov/cmv_mike_bloombergs_campaign_is_proof_that_the/,fdziov,1583432538.0,"Mike Bloomberg recently dropped out of the 2020 Presidential race after spending over $500 million dollars of his own money on his campaign. Even with this loss, he is still worth over $55 billion dollars.
+
+
+I believe that this effortless spending on Bloombergs part showcases the reality that is wealth inequality between the ultra rich and working class. While I do not believe the rich should give up their fortunes, I do believe that any arguments against taxing them more is simply propaganda from those who hold the wealth and higher power at this point. 
+
+Certain media outlets claim that taxing the super wealthy is unfair and would be detrimental to those below them due to ""trickle down"" effects. There is also rhetoric that many self made billionaires worked hard for their fortunes, and that if we as Americans work hard, we might be rich ourselves one day.
+
+I believe that moving forward, we should push for much higher taxes on those earning/worth more than 1 billion USD. If the money Bloomberg spent on his campaign went to actual communities that need funding, actual change could have been possible. Social programs could benefit greatly from these funds, and maybe we could afford to better fund national programs such as healthcare or family leave.","mike bloomberg recently dropped out of the  presidential race after spending over  million dollars of his own money on his campaign even with this loss he is still worth over  billion dollars
+
+
+i believe that this effortless spending on bloombergs part showcases the reality that is wealth inequality between the ultra rich and working class while i do not believe the rich should give up their fortunes i do believe that any arguments against taxing them more is simply propaganda from those who hold the wealth and higher power at this point 
+
+certain media outlets claim that taxing the super wealthy is unfair and would be detrimental to those below them due to trickle down effects there is also rhetoric that many self made billionaires worked hard for their fortunes and that if we as americans work hard we might be rich ourselves one day
+
+i believe that moving forward we should push for much higher taxes on those earningworth more than  billion usd if the money bloomberg spent on his campaign went to actual communities that need funding actual change could have been possible social programs could benefit greatly from these funds and maybe we could afford to better fund national programs such as healthcare or family leave",0,216,6,1
+ChangeMyView,CMV: Kanye West is a shill for president Trump and running to syphon off young voters from voting for Biden.,54489,https://www.reddit.com/r/changemyview/comments/hlpd7d/cmv_kanye_west_is_a_shill_for_president_trump_and/,hlpd7d,1593966343.0,"Kanye West is a shill for president Trump and running to syphon off young voters from voting for Biden. First, he may have an excentric take on reality but can't honestly believe that he has a chance of winning. Second, if he truly wanted to be president, he would have started his campaign last year when he still had a chance to get on state ballots. Third, he has been an avid defender of Trump and the MAGA agenda. Just from reviewing other threads on reddit, there are people willing to vote for him. Generally speaking, the fan base of artists like Kanye skews young and culturally diverse, which are both not likely to vote for Trump. 
+
+There are plenty of other reasons you can say that Kanye is running, but unless you say how my view is flawed I will only consider those reasons as supplemental to the above concept and not as a replacement for.
+
+EDIT: Interesting.... https://www.thedailybeast.com/billionaire-kanye-wests-company-yeezy-llc-gets-multimillion-dollar-ppp-loan-from-trump-admin?utm_source=feedly&utm_medium=webfeeds","kanye west is a shill for president trump and running to syphon off young voters from voting for biden first he may have an excentric take on reality but cant honestly believe that he has a chance of winning second if he truly wanted to be president he would have started his campaign last year when he still had a chance to get on state ballots third he has been an avid defender of trump and the maga agenda just from reviewing other threads on reddit there are people willing to vote for him generally speaking the fan base of artists like kanye skews young and culturally diverse which are both not likely to vote for trump 
+
+there are plenty of other reasons you can say that kanye is running but unless you say how my view is flawed i will only consider those reasons as supplemental to the above concept and not as a replacement for
+
+edit interesting ",0,162,7,1
+ChangeMyView,CMV: Most Americans who oppose a national healthcare system would quickly change their tune once they benefited from it.,45349,https://www.reddit.com/r/changemyview/comments/mzr23d/cmv_most_americans_who_oppose_a_national/,mzr23d,1619537456.0,"I used to think I was against a national healthcare system until after I got out of the army. Granted the VA isn't always great necessarily, but it feels *fantastic* to walk out of the hospital after an appointment without ever seeing a cash register when it would have cost me potentially thousands of dollars otherwise. It's something that I don't think just veterans should be able to experience. 
+
+Both [Canada](https://www.healthcare-now.org/blog/new-poll-shows-canadians-overwhelmingly-support-public-health-care/) and [the UK](https://www.npr.org/sections/parallels/2018/03/07/591128836/u-k-hospitals-are-overburdened-but-the-british-love-their-universal-health-care) seem to overwhelmingly love their public healthcare. I dated a Canadian woman for two years who was probably more on the conservative side for Canada, and she could absolutely not understand how Americans allow ourselves to go broke paying for treatment. 
+
+The more wealthy opponents might continue to oppose it, because they can afford healthcare out of pocket if they need to. However, I'm referring to the middle class and under who simply cannot afford huge medical bills and yet continue to oppose a public system.
+
+***Edit: This took off very quickly and I'll reply as I can and eventually (likely) start awarding deltas. The comments are flying in SO fast though lol. Please be patient.***","i used to think i was against a national healthcare system until after i got out of the army granted the va isnt always great necessarily but it feels fantastic to walk out of the hospital after an appointment without ever seeing a cash register when it would have cost me potentially thousands of dollars otherwise its something that i dont think just veterans should be able to experience 
+
+both canada and the uk seem to overwhelmingly love their public healthcare i dated a canadian woman for two years who was probably more on the conservative side for canada and she could absolutely not understand how americans allow ourselves to go broke paying for treatment 
+
+the more wealthy opponents might continue to oppose it because they can afford healthcare out of pocket if they need to however im referring to the middle class and under who simply cannot afford huge medical bills and yet continue to oppose a public system
+
+edit this took off very quickly and ill reply as i can and eventually likely start awarding deltas the comments are flying in so fast though lol please be patient",1,197,7,1
+ChangeMyView,CMV: Donald Trump has not made a single lasting positive impact on the USA during his term as president.,36284,https://www.reddit.com/r/changemyview/comments/iq41dt/cmv_donald_trump_has_not_made_a_single_lasting/,iq41dt,1599747097.0,"I write this because I am tired of the wild goose chase that is finding examples of his success. Anything surrounding Donald Trump is shrouded in divisive language and biased opinions. Liberals will have you believe he has done nothing, while conservatives will tout his unlimited success. I must be missing it, because any time I try to research into a topic I get lost in opinion and bias. 
+
+I am completely willing to hear and review and accept any examples of success or lasting positive change that has come about as a direct result of Trumps presidency. In fact I want to! It can’t be ALL bad.
+
+Edit1: a lot of responses here. I need to actually read the sources for the claims everyone’s making, so it may take a while for me to respond to each comment, but I will try. I’ll take this chance to remind everyone it’s possible to have civil discourse about even the most divisive topics, even the infamous DJT. Thanks all for the responses.
+
+Edit2: double thanks to those who are responding and engaging one another civilly, and awarding the post. I think it’s important to realize how biased we can become despite the facts. The good things don’t necessarily outweigh the bad, so maybe there’s a counter-post to be made regarding all of the harm DJT has done as well. Every point has a counter point, so take anything you hear with the ole’ grain of salt. I urge everyone to educate themselves and vote in the upcoming election for the candidate they believe in - and don’t let politics negatively impact your happiness. It’s just like any other thing, and can be harmful in high doses.
+
+Edit3: definitely had my view changed. I wanted examples of positives and I received examples with sources. I appreciate everyone’s responses, and feel better about having informed conversation about DJT’s presidency. Still have a lot to read and respond to!","i write this because i am tired of the wild goose chase that is finding examples of his success anything surrounding donald trump is shrouded in divisive language and biased opinions liberals will have you believe he has done nothing while conservatives will tout his unlimited success i must be missing it because any time i try to research into a topic i get lost in opinion and bias 
+
+i am completely willing to hear and review and accept any examples of success or lasting positive change that has come about as a direct result of trumps presidency in fact i want to it cant be all bad
+
+edit a lot of responses here i need to actually read the sources for the claims everyones making so it may take a while for me to respond to each comment but i will try ill take this chance to remind everyone its possible to have civil discourse about even the most divisive topics even the infamous djt thanks all for the responses
+
+edit double thanks to those who are responding and engaging one another civilly and awarding the post i think its important to realize how biased we can become despite the facts the good things dont necessarily outweigh the bad so maybe theres a counterpost to be made regarding all of the harm djt has done as well every point has a counter point so take anything you hear with the ole grain of salt i urge everyone to educate themselves and vote in the upcoming election for the candidate they believe in  and dont let politics negatively impact your happiness its just like any other thing and can be harmful in high doses
+
+edit definitely had my view changed i wanted examples of positives and i received examples with sources i appreciate everyones responses and feel better about having informed conversation about djts presidency still have a lot to read and respond to",0,333,1,2
+ChangeMyView,CMV: being a conservative is the least Christ-like political view,34752,https://www.reddit.com/r/changemyview/comments/kvwbxj/cmv_being_a_conservative_is_the_least_christlike/,kvwbxj,1610472988.0,"From what I know, Christ was essentially a radical leftist. He was all about helping and loving the poor, hungry, disabled, outcast. He would feed 10 people just in case one was going hungry. He flipped a table when banks were trying to take advantage of people. He was anti-capitalist and pro social responsibility to support, love and respect all members of society. He was, based on location and era, probably a person of color. He would not stand for discrimination. He would overthrow an institution that treated people like crap.
+
+On the other hand, conservatives are all about greed. They are not willing to help people in need (through governmental means) because they “didn’t earn it” and it’s “my tax dollars”. They are very pro-capitalism, and would let 10 people go hungry because one might not actually need the help. They do not believe in social responsibility, instead they prioritize the individual. Very dog eat dog world to them. And, while there are conservatives of color, in America most conservatives are at least a little bit racist (intentionally or not) because most do not recognize how racism can be institutional and generational. They think everyone has the same opportunities and you can just magically work your way out of poverty. 
+
+Christ would be a radical leftist and conservatism is about as far as you can get from being Christ-like in politics. The Bible says nothing about abortion (it actually basically only says if someone makes a pregnant woman lose her baby, they have to pay the husband). It does not say homosexuality is sin, just that a man should not lie with a boy (basically, anti pedophilia) based on new translations not run through the filter of King James. Other arguments are based on Old Testament, which is not what Christianity focuses on. Jesus said forget that, listen to me (enter Christianity). Essentially all conservative arguments using the Bible are shaky at best. And if you just look at the overall message of Jesus, he would disagree with conservatives on almost everything.
+
+EDIT: Wow, this is blowing up. I tried to respond to a lot of people. I tried to keep my post open (saying left instead of Democrat, saying Christian instead of Baptist or Protestant) to encourage more discussion on the differences between subgroups. It was not my intent to lump groups together.
+
+Of course I am not the #1 most educated person in the world on these issues. I posted my opinion, which as a human, is of course flawed and even sometimes uninformed. I appreciate everyone who commented kindly, even if it was in disagreement.
+
+I think this is a really interesting discussion and I genuinely enjoy hearing all the points of view. I’m trying to be more open minded about how conservative Christians can have the views they have, as from my irreligious upbringing, it seemed contradictory. I’ve learned a lot today!
+
+I still think some conservatives do not live or operate in a Christ-like manner and yet thump the Bible to make political points, which is frustrating and the original inspiration for this point. However I now understand that that is not ALWAYS the case.","from what i know christ was essentially a radical leftist he was all about helping and loving the poor hungry disabled outcast he would feed  people just in case one was going hungry he flipped a table when banks were trying to take advantage of people he was anticapitalist and pro social responsibility to support love and respect all members of society he was based on location and era probably a person of color he would not stand for discrimination he would overthrow an institution that treated people like crap
+
+on the other hand conservatives are all about greed they are not willing to help people in need through governmental means because they didnt earn it and its my tax dollars they are very procapitalism and would let  people go hungry because one might not actually need the help they do not believe in social responsibility instead they prioritize the individual very dog eat dog world to them and while there are conservatives of color in america most conservatives are at least a little bit racist intentionally or not because most do not recognize how racism can be institutional and generational they think everyone has the same opportunities and you can just magically work your way out of poverty 
+
+christ would be a radical leftist and conservatism is about as far as you can get from being christlike in politics the bible says nothing about abortion it actually basically only says if someone makes a pregnant woman lose her baby they have to pay the husband it does not say homosexuality is sin just that a man should not lie with a boy basically anti pedophilia based on new translations not run through the filter of king james other arguments are based on old testament which is not what christianity focuses on jesus said forget that listen to me enter christianity essentially all conservative arguments using the bible are shaky at best and if you just look at the overall message of jesus he would disagree with conservatives on almost everything
+
+edit wow this is blowing up i tried to respond to a lot of people i tried to keep my post open saying left instead of democrat saying christian instead of baptist or protestant to encourage more discussion on the differences between subgroups it was not my intent to lump groups together
+
+of course i am not the  most educated person in the world on these issues i posted my opinion which as a human is of course flawed and even sometimes uninformed i appreciate everyone who commented kindly even if it was in disagreement
+
+i think this is a really interesting discussion and i genuinely enjoy hearing all the points of view im trying to be more open minded about how conservative christians can have the views they have as from my irreligious upbringing it seemed contradictory ive learned a lot today
+
+i still think some conservatives do not live or operate in a christlike manner and yet thump the bible to make political points which is frustrating and the original inspiration for this point however i now understand that that is not always the case",1,540,8,2
+ChangeMyView,cmv: The ‘Work hard and don’t give up’ message common on Reddit posts accompanying ‘rags to riches’ stories are damaging lies that imply poverty is most strongly related to lack of effort. Which is proven to be both bullshit and demotivating.,30160,https://www.reddit.com/r/changemyview/comments/jfz65t/cmv_the_work_hard_and_dont_give_up_message_common/,jfz65t,1603371667.0,"Here’s a picture of someone living in a slum. Now here’s a picture of them 10 years later going to Harvard. How heartwarming.  If only *every* one of those lazy, dirty shits the world over would be more like him. No, more like *us*. You see, yes I didn’t come from quite that background - but dammit I’ve worked very hard for what I’ve achieved. That’s the difference between scum and me. I pulled myself up by my bootstraps. I’ve overcome many setbacks in my life. And instead of letting them defeat me, I’ve used my wits, my grit and the loving support from my friends and family (who I admit are doing ok and are able to help me - but *only because they* worked hard). I love those Reddit posts. They stop me feeling guilty about other people’s situations. Because it’ll all work out for those who ‘Work hard and Never give up’ and the rest are lazy subhuman scum who don’t deserve any better.
+
+Edit: 23/10/2020 12:35 GMT: Thanks to u/subduedReality for this [video](https://youtu.be/3LopI4YeC4I)  on work, talent and luck","heres a picture of someone living in a slum now heres a picture of them  years later going to harvard how heartwarming  if only every one of those lazy dirty shits the world over would be more like him no more like us you see yes i didnt come from quite that background  but dammit ive worked very hard for what ive achieved thats the difference between scum and me i pulled myself up by my bootstraps ive overcome many setbacks in my life and instead of letting them defeat me ive used my wits my grit and the loving support from my friends and family who i admit are doing ok and are able to help me  but only because they worked hard i love those reddit posts they stop me feeling guilty about other peoples situations because itll all work out for those who work hard and never give up and the rest are lazy subhuman scum who dont deserve any better
+
+edit   gmt thanks to usubduedreality for this video  on work talent and luck",1,192,2,2
+ChangeMyView,CMV: politicians should be required to wear NASCAR-style jumpsuits showing all their major sponsors.,30110,https://www.reddit.com/r/changemyview/comments/hs9xnd/cmv_politicians_should_be_required_to_wear/,hs9xnd,1594907258.0,"In recent days some have decried the POTUS and FDOTUS brazenly ignoring federal ethics laws by posing with a certain company's bean products. 
+
+But I welcome it. The ethics rules really just obscure behind a thin veneer the truth of American politics: namely, many politicians are just in it for their friends and donors. 
+
+We shouldn't hide it anymore. Make these allegiances visible, front-and-center. 
+
+We should make it mandatory for politicians appearing in public to wear NASCAR-style jumpsuits with their major sponsors emblazoned across their bodies. Then we'll more readily know who they're beholden to and which companies we may want to boycott or patronize. 
+
+Change my view.","in recent days some have decried the potus and fdotus brazenly ignoring federal ethics laws by posing with a certain companys bean products 
+
+but i welcome it the ethics rules really just obscure behind a thin veneer the truth of american politics namely many politicians are just in it for their friends and donors 
+
+we shouldnt hide it anymore make these allegiances visible frontandcenter 
+
+we should make it mandatory for politicians appearing in public to wear nascarstyle jumpsuits with their major sponsors emblazoned across their bodies then well more readily know who theyre beholden to and which companies we may want to boycott or patronize 
+
+change my view",0,114,2,1
+ChangeMyView,CMV: Democrats and Republicans live in completely different realities and it is destroying our country.,28840,https://www.reddit.com/r/changemyview/comments/kyjzxi/cmv_democrats_and_republicans_live_in_completely/,kyjzxi,1610807877.0,"I would guess that a typical Democrat gets their news from CNN, MSNBC, Washington Post, NYT, etc. And the average conservative gets his news from Fox News, Talk Radio, OAN, Breitbart, The Daily Caller, YouTubers like Stephen Crowder and Ben Shapiro, etc. If you go more into the fringes of the right they probably get their news from QAnon and other conspiracy Facebook groups.
+
+This disparity in where both sides of the political aisle gets their news from is what I believe is causing the massive division and polarization we see. We can't agree on basic facts of reality like whether the 2020 election was fair.
+
+I think one clear measure we can take is enforcing anti-trust laws on broadcast and media companies. The fact that the conservative leaning Sinclair Broadcast Group covers 40% of American households, disproportionately in rural areas, is what is leading to the [brainwashing](https://www.youtube.com/watch?v=_fHfgU8oMSo&ab_channel=Deadspin) of these rural conservatives.
+
+Another thing we can do is stop with this ""both sides"" meme. Both sides aren't just as bad when it comes to sensational media and disinformation. There is no left equivalent in terms of disinformation to QAnon. Like, we literally have QAnon supporters as congress people (i.e. Marjorie Taylor Greene). MSNBC or CNN never engaged in sensationalism on the level of the [birther movement](https://en.wikipedia.org/wiki/Barack_Obama_citizenship_conspiracy_theories) that Fox News engaged in. Sure, MSNBC, CNN, Washington Post do attack Trump a lot, but they do it on issues that Trump should be attacked on. In contrast, remember when Fox News had a whole media cycle dedicated to [Obama ordering a burger with Dijon mustard](https://www.youtube.com/watch?v=W-WnoZbjdh4&ab_channel=TheDailyShowwithTrevorNoah)?
+
+At the end of the day, I think it's safe to say that most Americans want less division, less polarization, some agreement and compromise so we can get things done (fixing poverty, homelessness, drug addiction, healthcare reform, immigration reform, etc.). But we can't accomplish any of that if we don't fix the vast disparity in our media and news consumption.","i would guess that a typical democrat gets their news from cnn msnbc washington post nyt etc and the average conservative gets his news from fox news talk radio oan breitbart the daily caller youtubers like stephen crowder and ben shapiro etc if you go more into the fringes of the right they probably get their news from qanon and other conspiracy facebook groups
+
+this disparity in where both sides of the political aisle gets their news from is what i believe is causing the massive division and polarization we see we cant agree on basic facts of reality like whether the  election was fair
+
+i think one clear measure we can take is enforcing antitrust laws on broadcast and media companies the fact that the conservative leaning sinclair broadcast group covers  of american households disproportionately in rural areas is what is leading to the brainwashing of these rural conservatives
+
+another thing we can do is stop with this both sides meme both sides arent just as bad when it comes to sensational media and disinformation there is no left equivalent in terms of disinformation to qanon like we literally have qanon supporters as congress people ie marjorie taylor greene msnbc or cnn never engaged in sensationalism on the level of the birther movement that fox news engaged in sure msnbc cnn washington post do attack trump a lot but they do it on issues that trump should be attacked on in contrast remember when fox news had a whole media cycle dedicated to obama ordering a burger with dijon mustard
+
+at the end of the day i think its safe to say that most americans want less division less polarization some agreement and compromise so we can get things done fixing poverty homelessness drug addiction healthcare reform immigration reform etc but we cant accomplish any of that if we dont fix the vast disparity in our media and news consumption",1,331,21,4
+ChangeMyView,"CMV: ""Folks"" is a reasonably inclusive, gender neutral term, and spelling it as ""folx"" is purely virtue signaling",28821,https://www.reddit.com/r/changemyview/comments/mglg30/cmv_folks_is_a_reasonably_inclusive_gender/,mglg30,1617125788.0,"I just want to start by saying this might be the only instance of something that I would actually, unironically call ""virtue signaling"" -- a term I usually disdain and find dismissive of social progress. But in this case, that's exactly what I think it is. 
+
+""Folks"" is an inclusive word. It means ""people."" It is inherently gender neutral. It is perhaps one of the few English words to address a group of people that is totally inclusive and innocuous. In a time when we are critically evaluating the inclusiveness of language, one would think we're lucky to have a word as neutral and applicable as ""folks."" 
+
+But apparently, people are intent on spelling it ""folx,"" with the ""x"" indicating inclusiveness. But adding a trendy letter to a word doesn't make the word more inclusive if the word was already inclusive. ""Folks"" didn't exclude people who were non-binary (for instance), because it inherently means ""people"" -- so unless you think non-binary folx aren't *people*, then they were already included and accepted in that term.
+
+I understand there is value in making sure that language is obviously inclusive when speaking to people who may otherwise feel excluded. So, I understand there may be *some* value in taking a word that is potentially vague in its inclusiveness, and tweaking it in a way that is more inclusive. As an example, I understand the intent and value in the term ""latinx"" (which could be its own discussion, but I'm just citing it as a contrary example here). Regardless of someone's feelings on ""latinos/latinas,"" ""latinx"" is a substantive change that would, in theory, have more inclusiveness for those who might feel othered by the gendered terms.  
+
+But ""folx"" doesn't add or change anything on a substantive level. It is purely a spelling change in a situation where the original spelling was not problematic or exclusive. It uses the letter ""x"" as a reference to the fact that ""x"" has become a signifier of inclusiveness, thereby showing that the user supports inclusiveness. But if people wouldn't have felt excluded otherwise, then signifying this is purely for the user's own ego -- to say, ""Look at what type of person I am; you should feel accepted by me."" Signaling that you're a good person in a way that doesn't change anything else or help your audience (since there wasn't a problem to begin with) is, by definition, virtue signaling. 
+
+The only conceivable reason I see for the rally behind ""folx"" is the historical usage of ""volk"" in Germany, when Nazi Germany referred to ""the people"" as part of their nationalist identity. But 1) that's a different word in a different language which carries none of that baggage in English-speaking cultures; 2) it's a such a common, generally applicable word that its inclusion within political rhetoric shouldn't forever change the world itself, especially given its common and unproblematic usage for decades since then; and 3) this feels like a shoe-horned, insincere argument that someone might raise as a way to retroactively inject purpose into what is, in actuality, their virtue signaling. And if you were previously unfamiliar with this argument from German history, then that underscores my point about how inconsequential it is to Western English-speaking society. 
+
+People who spell it as ""folx"" are not mitigating any harm by doing so, and are therefore doing it purely for their own sense of virtue. CMV.
+___
+*Addendum*: I'm not arguing for anyone to stop using this word. I'm not saying this word is harmful. I'm not trying to police anyone's language. I'm saying the word's spelling is self-serving and unhelpful relative to other attempts at inclusive language.    
+
+*Addendums*: By far the most common response is an acknowledgement that ""folks"" is inclusive, but also that ""folx"" is a way to signal that the user is an accepting person. I don't see how this isn't, by definition, virtue signaling.
+
+*Addendum 3*: I'm not making a claim of how widespread this is, nor a value judgment of how widespread it should be, but I promise this is a term that is used among some people. Stating that you've never seen this used doesn't contribute to the discussion, and claiming that I'm making this up is obnoxious.
+
+*Addendum Resurrection*: Read the sidebar rules. Top level comments are to challenge the view and engage in honest discussion. If you're just dropping in from the front page to leave a snarky comment about how you hate liberals, you're getting reported 2 times over. Thanx.
+
+*Addendum vs. Editor*: Read my first few sentences. I used the term ""virtue signaling"" very purposefully. If you want to rant about everything you perceive to be virtue signaling, or tell me that you didn't read this post because it says virtue signaling, your viewpoint is too extreme/reductionist.
+
+*Addendum vs. Editor, Requiem*: The mods must hate me for the amount of rule 1 & 3 reports I've submitted.","i just want to start by saying this might be the only instance of something that i would actually unironically call virtue signaling  a term i usually disdain and find dismissive of social progress but in this case thats exactly what i think it is 
+
+folks is an inclusive word it means people it is inherently gender neutral it is perhaps one of the few english words to address a group of people that is totally inclusive and innocuous in a time when we are critically evaluating the inclusiveness of language one would think were lucky to have a word as neutral and applicable as folks 
+
+but apparently people are intent on spelling it folx with the x indicating inclusiveness but adding a trendy letter to a word doesnt make the word more inclusive if the word was already inclusive folks didnt exclude people who were nonbinary for instance because it inherently means people  so unless you think nonbinary folx arent people then they were already included and accepted in that term
+
+i understand there is value in making sure that language is obviously inclusive when speaking to people who may otherwise feel excluded so i understand there may be some value in taking a word that is potentially vague in its inclusiveness and tweaking it in a way that is more inclusive as an example i understand the intent and value in the term latinx which could be its own discussion but im just citing it as a contrary example here regardless of someones feelings on latinoslatinas latinx is a substantive change that would in theory have more inclusiveness for those who might feel othered by the gendered terms  
+
+but folx doesnt add or change anything on a substantive level it is purely a spelling change in a situation where the original spelling was not problematic or exclusive it uses the letter x as a reference to the fact that x has become a signifier of inclusiveness thereby showing that the user supports inclusiveness but if people wouldnt have felt excluded otherwise then signifying this is purely for the users own ego  to say look at what type of person i am you should feel accepted by me signaling that youre a good person in a way that doesnt change anything else or help your audience since there wasnt a problem to begin with is by definition virtue signaling 
+
+the only conceivable reason i see for the rally behind folx is the historical usage of volk in germany when nazi germany referred to the people as part of their nationalist identity but  thats a different word in a different language which carries none of that baggage in englishspeaking cultures  its a such a common generally applicable word that its inclusion within political rhetoric shouldnt forever change the world itself especially given its common and unproblematic usage for decades since then and  this feels like a shoehorned insincere argument that someone might raise as a way to retroactively inject purpose into what is in actuality their virtue signaling and if you were previously unfamiliar with this argument from german history then that underscores my point about how inconsequential it is to western englishspeaking society 
+
+people who spell it as folx are not mitigating any harm by doing so and are therefore doing it purely for their own sense of virtue cmv
+
+addendum im not arguing for anyone to stop using this word im not saying this word is harmful im not trying to police anyones language im saying the words spelling is selfserving and unhelpful relative to other attempts at inclusive language    
+
+addendums by far the most common response is an acknowledgement that folks is inclusive but also that folx is a way to signal that the user is an accepting person i dont see how this isnt by definition virtue signaling
+
+addendum  im not making a claim of how widespread this is nor a value judgment of how widespread it should be but i promise this is a term that is used among some people stating that youve never seen this used doesnt contribute to the discussion and claiming that im making this up is obnoxious
+
+addendum resurrection read the sidebar rules top level comments are to challenge the view and engage in honest discussion if youre just dropping in from the front page to leave a snarky comment about how you hate liberals youre getting reported  times over thanx
+
+addendum vs editor read my first few sentences i used the term virtue signaling very purposefully if you want to rant about everything you perceive to be virtue signaling or tell me that you didnt read this post because it says virtue signaling your viewpoint is too extremereductionist
+
+addendum vs editor requiem the mods must hate me for the amount of rule    reports ive submitted",1,853,6,6
+ChangeMyView,"CMV: US presidential candidates should take an exam covering US government and law, foreign policy, as well as undergo a comprehensive cognitive exam.",28651,https://www.reddit.com/r/changemyview/comments/hm5di9/cmv_us_presidential_candidates_should_take_an/,hm5di9,1594032261.0,"Edit: Ok, this has been fun and some great conversation, but I am beginning to feel like a one-man army trying to defend the gates of Sparta. 
+
+I have changed my mind for three reasons. 
+
+1) Test-taking ability is not necessarily an indication of one's ability to run the office of the president. 
+
+2) He who creates the questions dictates the barrier for entry. 
+
+3) Freedom of speech is a slippery slope, and even though announcing one's intent to run for president can and will continue to be abused, you can't knock out one brick and expect the wall to remain intact. Therefore, I am hereby announcing my bid to run as VP with Kim Kardashian. 
+
+I still believe standardized cognitive testing should be administered. This could be automated, perhaps using open-source N-Back software or various standardized cognitive testing designed to screen for early cognitive decline. 
+
+Regardless of who you like, this is a democracy, so register to vote and get those ballots in by November! 
+
+---- Original Post ----
+
+The office of the President of the United States is being used as a tool to boost social media presence, to syphon votes, and to simply sell products. This is an abuse of the office of the presidency and should be illegal, especially if someone has zero intent on running or winning. 
+
+To limit entry into this field, and to limit the abuse of power that has been recently demonstrated by Kanye West, it should be illegal to announce you are running for president unless you undergo a comprehensive set of exams that show you have at least a basic mental competency to run the United States of America. 
+
+The results of these exams should be available to everyone as a pass/fail, though the exact scores should be held secret so as not to be used to favor one candidate with a higher score over another. They should cover cognitive, physical, as well as brain scans using MRI, EEG, etc.
+
+While these tests may not completely stop such abuse, they would make it far more difficult for any celebrity to simply announce to their millions of Twitter followers that they are running for president. More importantly, voters could be assured that any candidate running for president has passed a basic competency exam, which would prevent candidates from using perceived cognitive decline as a political weapon.","edit ok this has been fun and some great conversation but i am beginning to feel like a oneman army trying to defend the gates of sparta 
+
+i have changed my mind for three reasons 
+
+ testtaking ability is not necessarily an indication of ones ability to run the office of the president 
+
+ he who creates the questions dictates the barrier for entry 
+
+ freedom of speech is a slippery slope and even though announcing ones intent to run for president can and will continue to be abused you cant knock out one brick and expect the wall to remain intact therefore i am hereby announcing my bid to run as vp with kim kardashian 
+
+i still believe standardized cognitive testing should be administered this could be automated perhaps using opensource nback software or various standardized cognitive testing designed to screen for early cognitive decline 
+
+regardless of who you like this is a democracy so register to vote and get those ballots in by november 
+
+ original post 
+
+the office of the president of the united states is being used as a tool to boost social media presence to syphon votes and to simply sell products this is an abuse of the office of the presidency and should be illegal especially if someone has zero intent on running or winning 
+
+to limit entry into this field and to limit the abuse of power that has been recently demonstrated by kanye west it should be illegal to announce you are running for president unless you undergo a comprehensive set of exams that show you have at least a basic mental competency to run the united states of america 
+
+the results of these exams should be available to everyone as a passfail though the exact scores should be held secret so as not to be used to favor one candidate with a higher score over another they should cover cognitive physical as well as brain scans using mri eeg etc
+
+while these tests may not completely stop such abuse they would make it far more difficult for any celebrity to simply announce to their millions of twitter followers that they are running for president more importantly voters could be assured that any candidate running for president has passed a basic competency exam which would prevent candidates from using perceived cognitive decline as a political weapon",0,402,10,1
+AskReddit,Stan Lee has passed away at 95 years old,175373,https://www.reddit.com/r/AskReddit/comments/9whgf4/stan_lee_has_passed_away_at_95_years_old/,9whgf4,1542052467.0,"As many of you know today is day that many of us have dreaded. Stan Lee has passed away at the age of 95. He leaves behind a legacy of superheroes and stories that have touched many people's lives for decades. We wanted to make this thread to honor and remember this wonderful man, so please use it discuss his life, his work, [his cameos](https://thumbs.gfycat.com/RapidClearDungenesscrab-small.gif), etc and what they meant to you. 
+
+Excelsior!
+
+-The AskReddit mods","as many of you know today is day that many of us have dreaded stan lee has passed away at the age of  he leaves behind a legacy of superheroes and stories that have touched many peoples lives for decades we wanted to make this thread to honor and remember this wonderful man so please use it discuss his life his work his cameos etc and what they meant to you 
+
+excelsior
+
+the askreddit mods",0,78,3,1
